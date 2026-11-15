@@ -16,7 +16,7 @@ Recipes, photos and videos are saved on the device you add them on, inside the b
 
 1. On GitHub, open this repository and go to **Settings → Pages**.
 2. Under **Build and deployment**, set **Source** to *Deploy from a branch*, choose **main** and **/ (root)**, then press **Save**.
-3. After a minute or two the address appears at the top of that page, for example `https://icnussa.github.io/recipe-book/`.
+3. After a minute or two the address appears at the top of that page, for example `https://icnussa.github.io/Recipe-Book/`.
 
 ## Add it to your home screen
 
